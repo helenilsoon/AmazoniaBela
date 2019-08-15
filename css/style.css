@@ -513,7 +513,7 @@ input[type=checkbox]{display: none;}
 @media screen and (max-width: 1100px ){
      
   .logo{
-     width: 10%;
+     width: 15%;
 }
  .logo img{
      width: 100%; 
@@ -576,7 +576,7 @@ input[type=checkbox]{display: none;}
     position: absolute;
     left: 45%;
     right:45%; 
-    width: 12%;
+    width: 150px;
     top:5px; 
 }
 label[for="bt-menu"]{
@@ -735,7 +735,7 @@ input[type=checkbox]:checked ~ #rdp-menu{
       padding:10px 20px;
   }
   .logo{
-    width:15%;
+    width:150px;
     top:6px;
   }
     .box-slide{
@@ -762,8 +762,7 @@ input[type=checkbox]:checked ~ #rdp-menu{
 */
 @media screen and (max-device-width:480px){
   .logo{
-    width:20%;
-    top:-4px;
+    width:140px;
   }
 
 nav ul li a{

@@ -17,7 +17,7 @@ a{
 	margin: 5px;
 }
 .box-pagDois ol {
-	margin:  20px 10px;
+	margin:  20px 40px;
 	list-style: none;
 	height: 25px;
 	line-height: 25px;
@@ -30,6 +30,7 @@ a{
 	margin: 5px;
 	line-height:5px ;
 	color:#2d3436;
+	
 }
 .box-pagDois ol a{
 	color:#2e5a1c;
@@ -40,11 +41,12 @@ a{
 	text-align: left;
 	font:3em Raleway-Light;
 	font-weight: 600;
-	padding:10px 50px 40px;
+	padding:10px 70px 40px;
 	color:#2c3e50;
 }
 .autor{
-	padding: 15px 20px;
+	padding: 15px 50px;
+	font-size: 0.9em;
 	border-top: 1px solid #dfe6e9;
 	border-bottom:1px solid #dfe6e9; 
 	display: block;
@@ -57,7 +59,7 @@ a{
 }
 .tags{
 	display: block;	 
-	padding: 20px;
+	padding: 40px;
 	width: 45%;
 	display:flex;
 	flex-wrap:wrap;
@@ -216,11 +218,11 @@ a{
 }
 
 aside{
-	width: 23.6%;
+	width: 23%;
 	background: #fafafa;
 	margin: 174px 0px;
-	border-radius:10px ;
-	box-shadow: 0 0 20px #00000066;
+	border-radius:5px ;
+	box-shadow: 1px 1px 10px #00000066;
 }
 aside label{
 	display:none;
@@ -247,7 +249,7 @@ aside a:hover{
 	width:75%;
 	max-width: 1024px; 
 	
-	padding: 0px 10px;
+	padding: 50px 10px;
 
 
 }

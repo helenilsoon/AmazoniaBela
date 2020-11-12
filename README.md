@@ -6,4 +6,4 @@
 site dos alguns principais ponto turistico de Manaus
 
 <helenilsoon@gmail.com> 
- visite o site [AmazoniaBela](https://helenilsoon.github.io/AmazoniaBela/)
+ visite o site [AmazoniaBela](https://helenilsoon.github.io/AmazoniaBelaStatic/)
